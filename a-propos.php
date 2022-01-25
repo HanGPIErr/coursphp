@@ -1,0 +1,2 @@
+<?php
+$maVariable = "toto";
